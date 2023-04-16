@@ -1,0 +1,991 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Marco1111998/EPG_PT/main/epg/geral.xml"
+
+#EXTINF:-1 group-title="TV",RTP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC
+https://sic.live.impresa.pt/sic540p.m3u8
+#EXTINF:-1 group-title="TV",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIzIDI6MTE6NDEgUE0maGFzaF92YWx1ZT1zMjF3UGgvRkkxcm92Z0xWNGJoeWVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmI5MmEzZDUtNDA1OC00OTNiLThkMTQtMmIzZTljN2M2M2E3/
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV",RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIzIDI6MTE6NDIgUE0maGFzaF92YWx1ZT12NVdFUFhvMW9NT2o1dXhZczNXTmVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjdlMTMzNTgtYjRmNy00ZGI3LWJmYTYtNDQ1NTVhOThkOWNh/
+#EXTINF:-1 group-title="TV",CMTV
+http://ipflix.click:80/sq1x0qr86b/7777/12536
+#EXTINF:-1 group-title="TV",CMTV
+http://ipflix.click:80/sq1x0qr86b/7777/694243
+#EXTINF:-1 group-title="TV",CMTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66292
+#EXTINF:-1 group-title="TV",CMTV 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58805.ts
+#EXTINF:-1 group-title="TV",CMTV 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58806.ts
+#EXTINF:-1 group-title="TV",CMTV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106208
+#EXTINF:-1 group-title="TV",CMTV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106209
+#EXTINF:-1 group-title="TV",CMTV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106210
+#EXTINF:-1 group-title="TV",GLOBO
+http://ipflix.click:80/sq1x0qr86b/7777/8794
+#EXTINF:-1 group-title="TV",GLOBO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66326
+#EXTINF:-1 group-title="TV",GLOBO 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58791.ts
+#EXTINF:-1 group-title="TV",GLOBO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106256
+#EXTINF:-1 group-title="TV",GLOBO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106257
+#EXTINF:-1 group-title="TV",GLOBO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106258
+#EXTINF:-1 group-title="TV",SPORT TV + 
+http://ipflix.click:80/sq1x0qr86b/7777/7477
+#EXTINF:-1 group-title="TV",SPORT TV + 
+http://ipflix.click:80/sq1x0qr86b/7777/7500
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58878.ts
+#EXTINF:-1 group-title="TV",SPORT TV + 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106348
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106349
+#EXTINF:-1 group-title="TV",SPORT TV + 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106350
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106351
+#EXTINF:-1 group-title="TV",CANAL 11
+http://ipflix.click:80/sq1x0qr86b/7777/670849
+#EXTINF:-1 group-title="TV",CANAL 11
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/48564.ts
+#EXTINF:-1 group-title="TV",CANAL 11
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106344
+#EXTINF:-1 group-title="TV",CANAL 11
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106345
+#EXTINF:-1 group-title="TV",CANAL Q
+http://ipflix.click:80/sq1x0qr86b/7777/7528
+#EXTINF:-1 group-title="TV",CANAL Q
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66298
+#EXTINF:-1 group-title="TV",CANAL Q
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106252
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://ipflix.click:80/sq1x0qr86b/7777/7541
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66278
+#EXTINF:-1 group-title="TV",A BOLA TV 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58869.ts
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106221
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106222
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106223
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://ipflix.click:80/sq1x0qr86b/7777/7461
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66379
+#EXTINF:-1 group-title="TV",TVI FICCAO 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58787.ts
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106227
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106228
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106229
+#EXTINF:-1 group-title="TV",TVI FICCAO
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="TV",TVI AFRICA
+https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC OPTO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106225
+#EXTINF:-1 group-title="TV",SIC ADVANCE 
+http://directiptvfhd.com:8080/87b43fb3/ff46241f5f/290666
+#EXTINF:-1 group-title="TV",SIC ADVENCE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106535
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://ipflix.click:80/sq1x0qr86b/7777/7487
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58799.ts
+#EXTINF:-1 group-title="TV",SIC CARAS 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58800.ts
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106241
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106242
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106243
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://ipflix.click:80/sq1x0qr86b/7777/7485
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58803.ts
+#EXTINF:-1 group-title="TV",SIC MULHER 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58804.ts
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106238
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106239
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106240
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://ipflix.click:80/sq1x0qr86b/7777/7483
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66358
+#EXTINF:-1 group-title="TV",SIC RADICAL 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58801.ts
+#EXTINF:-1 group-title="TV",SIC RADICAL 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58802.ts
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106244
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106245
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106246
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106247
+#EXTINF:-1 group-title="TV",PORTO CANAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-09.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0h6FWE1TAgLIpSl9Fl6fy6jT555w9aFn7OrpzLAS7WPX)/dm/3/x8egnb8/s/live-2.m3u8
+#EXTINF:-1 group-title="TV",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://ipflix.click:80/sq1x0qr86b/7777/658469
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106294
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106295
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106296
+#EXTINF:-1 group-title="TV",BIGGS
+http://ipflix.click:80/sq1x0qr86b/7777/7533
+#EXTINF:-1 group-title="TV",BIGGS 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58863.ts
+#EXTINF:-1 group-title="TV",BIGGS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106273
+#EXTINF:-1 group-title="TV",BIGGS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106274
+#EXTINF:-1 group-title="TV",SIC K
+http://ipflix.click:80/sq1x0qr86b/7777/8801
+#EXTINF:-1 group-title="TV",SIC K
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356
+#EXTINF:-1 group-title="TV",SIC K
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58858.ts
+#EXTINF:-1 group-title="TV",SIC K
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106275
+#EXTINF:-1 group-title="TV",SIC K
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106276
+#EXTINF:-1 group-title="TV",NICK JR
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106269
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66331
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58857.ts
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106272
+#EXTINF:-1 group-title="TV",SUPER RTL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106516
+#EXTINF:-1 group-title="TV",PANDA KIDS
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106539
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://ipflix.click:80/sq1x0qr86b/7777/7502
+#EXTINF:-1 group-title="TV",NICKELODEON 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58859.ts
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106268
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://ipflix.click:80/sq1x0qr86b/7777/7529
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66297
+#EXTINF:-1 group-title="TV",CANAL PANDA 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58862.ts
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106534
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106263
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://ipflix.click:80/sq1x0qr86b/7777/7520
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58864.ts
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106538
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106266
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106267
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL 
+http://ipflix.click:80/sq1x0qr86b/7777/7521
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58865.ts
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106537
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://ipflix.click:80/sq1x0qr86b/7777/8804
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66300
+#EXTINF:-1 group-title="TV",CARTOON NETWORK 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58860.ts
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106264
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106270
+#EXTINF:-1 group-title="TV",FOX
+http://ipflix.click:80/sq1x0qr86b/7777/7456
+#EXTINF:-1 group-title="TV",FOX
+http://ipflix.click:80/sq1x0qr86b/7777/7516
+#EXTINF:-1 group-title="TV",FOX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66321
+#EXTINF:-1 group-title="TV",FOX 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58828.ts
+#EXTINF:-1 group-title="TV",FOX 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58829.ts
+#EXTINF:-1 group-title="TV",FOX
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106313
+#EXTINF:-1 group-title="TV",FOX
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106314
+#EXTINF:-1 group-title="TV",FOX 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106315
+#EXTINF:-1 group-title="TV",FOX
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106316
+#EXTINF:-1 group-title="TV",AXN
+http://ipflix.click:80/sq1x0qr86b/7777/7538
+#EXTINF:-1 group-title="TV",AXN 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66280
+#EXTINF:-1 group-title="TV",AXN 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58835.ts
+#EXTINF:-1 group-title="TV",AXN 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58836.ts
+#EXTINF:-1 group-title="TV",AXN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106301
+#EXTINF:-1 group-title="TV",AXN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106302
+#EXTINF:-1 group-title="TV",AXN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106303
+#EXTINF:-1 group-title="TV",AXN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106304
+#EXTINF:-1 group-title="TV",AMC
+http://ipflix.click:80/sq1x0qr86b/7777/7539
+#EXTINF:-1 group-title="TV",AMC
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58833.ts
+#EXTINF:-1 group-title="TV",AMC 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58834.ts
+#EXTINF:-1 group-title="TV",AMC
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106339
+#EXTINF:-1 group-title="TV",AMC
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106340
+#EXTINF:-1 group-title="TV",AMC
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106341
+#EXTINF:-1 group-title="TV",SYFY
+http://ipflix.click:80/sq1x0qr86b/7777/7475
+#EXTINF:-1 group-title="TV",SYFY 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58831.ts
+#EXTINF:-1 group-title="TV",SYFY
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58832.ts
+#EXTINF:-1 group-title="TV",SYFY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106336
+#EXTINF:-1 group-title="TV",SYFY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106337
+#EXTINF:-1 group-title="TV",SYFY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106338
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://ipflix.click:80/sq1x0qr86b/7777/7514
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66322
+#EXTINF:-1 group-title="TV",FOX LIFE 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58826.ts
+#EXTINF:-1 group-title="TV",FOX LIFE 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58827.ts
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106330
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106331
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106332
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://ipflix.click:80/sq1x0qr86b/7777/8810
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66320
+#EXTINF:-1 group-title="TV",FOX CRIME 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58821.ts
+#EXTINF:-1 group-title="TV",FOX CRIME 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58822.ts
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106322
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106323
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106324
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106325
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106326
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://ipflix.click:80/sq1x0qr86b/7777/7536
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66282
+#EXTINF:-1 group-title="TV",AXN WHITE 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58837.ts
+#EXTINF:-1 group-title="TV",AXN WHITE 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58838.ts
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106305
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106306
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106307
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106308
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://ipflix.click:80/sq1x0qr86b/7777/7537
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66281
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58839.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58840.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106309
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106310
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106311
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106312
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://ipflix.click:80/sq1x0qr86b/7777/7513
+#EXTINF:-1 group-title="TV",FOX MOVIES 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58823.ts
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106317
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106318
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106319
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106320
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106321
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://ipflix.click:80/sq1x0qr86b/7777/7515
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66324
+#EXTINF:-1 group-title="TV",FOX COMEDY 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58824.ts
+#EXTINF:-1 group-title="TV",FOX COMEDY 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58825.ts
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106327
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106328
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106329
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://ipflix.click:80/sq1x0qr86b/7777/7525
+#EXTINF:-1 group-title="TV",CINEMUNDO 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58818.ts
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106333
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106334
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106335
+#EXTINF:-1 group-title="TV",DIZI CHANNEL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106541
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://ipflix.click:80/sq1x0qr86b/7777/7510
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66329
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58819.ts
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58820.ts
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106297
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106298
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106298
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106300
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://ipflix.click:80/sq1x0qr86b/7777/13105
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://ipflix.click:80/sq1x0qr86b/7777/13104
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106278
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106279
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106280
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106281
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://ipflix.click:80/sq1x0qr86b/7777/13099
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://ipflix.click:80/sq1x0qr86b/7777/13098
+#EXTINF:-1 group-title="TV",TVCINE EDITION 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66375
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106282
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106283
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106284
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106285
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://ipflix.click:80/sq1x0qr86b/7777/13103
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://ipflix.click:80/sq1x0qr86b/7777/13102
+#EXTINF:-1 group-title="TV",TVCINE EMOTION 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66376
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106286
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106287
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106288
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106289
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://ipflix.click:80/sq1x0qr86b/7777/13101
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://ipflix.click:80/sq1x0qr86b/7777/13100
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106290
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106291
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106292
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106293
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://ipflix.click:80/sq1x0qr86b/7777/51927
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://ipflix.click:80/sq1x0qr86b/7777/694239
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66311
+#EXTINF:-1 group-title="TV",ELEVEN 1 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58888.ts
+#EXTINF:-1 group-title="TV",ELEVEN 1 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106391
+#EXTINF:-1 group-title="TV",ELEVEN 1 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106392
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106393
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106389
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106390
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://ipflix.click:80/sq1x0qr86b/7777/51926
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://ipflix.click:80/sq1x0qr86b/7777/694190
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66312
+#EXTINF:-1 group-title="TV",ELEVEN 2 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58889.ts
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106394
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106395
+#EXTINF:-1 group-title="TV",ELEVEN 2 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106396
+#EXTINF:-1 group-title="TV",ELEVEN 2 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106397
+#EXTINF:-1 group-title="TV",ELEVEN 2 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106398
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://ipflix.click:80/sq1x0qr86b/7777/691332
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66313
+#EXTINF:-1 group-title="TV",ELEVEN 3 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58890.ts
+#EXTINF:-1 group-title="TV",ELEVEN 3 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106401
+#EXTINF:-1 group-title="TV",ELEVEN 3 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106402
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106403
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106399
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106400
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://ipflix.click:80/sq1x0qr86b/7777/51924
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66314
+#EXTINF:-1 group-title="TV",ELEVEN 4 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58891.ts
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106404
+#EXTINF:-1 group-title="TV",ELEVEN 4 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106405
+#EXTINF:-1 group-title="TV",ELEVEN 4 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106406
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://ipflix.click:80/sq1x0qr86b/7777/51923
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66315
+#EXTINF:-1 group-title="TV",ELEVEN 5 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58892.ts
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106407
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106408
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106409
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://ipflix.click:80/sq1x0qr86b/7777/51922
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66316
+#EXTINF:-1 group-title="TV",ELEVEN 6 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58893.ts
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106410
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106411
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106412
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://ipflix.click:80/sq1x0qr86b/7777/8818
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://ipflix.click:80/sq1x0qr86b/7777/13097
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://ipflix.click:80/sq1x0qr86b/7777/13096
+#EXTINF:-1 group-title="TV",SPORT TV 1 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66365
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58879.ts
+#EXTINF:-1 group-title="TV",SPORT TV 1 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/31368.ts
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106352
+#EXTINF:-1 group-title="TV",SPORT TV 1  
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106353
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106354
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106355
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106356
+#EXTINF:-1 group-title="TV",SPORT TV 1 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106357
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106358
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106359
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://ipflix.click:80/sq1x0qr86b/7777/7481
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://ipflix.click:80/sq1x0qr86b/7777/8814
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://ipflix.click:80/sq1x0qr86b/7777/13093
+#EXTINF:-1 group-title="TV",SPORT TV 2 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66367
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58881.ts
+#EXTINF:-1 group-title="TV",SPORT TV 2 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58880.ts
+#EXTINF:-1 group-title="TV",SPORT TV 2  
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106360
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106361
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106362
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106363
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106364
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106365
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106366
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://ipflix.click:80/sq1x0qr86b/7777/8817
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://ipflix.click:80/sq1x0qr86b/7777/8813
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://ipflix.click:80/sq1x0qr86b/7777/13091
+#EXTINF:-1 group-title="TV",SPORT TV 3 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66369
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58883.ts
+#EXTINF:-1 group-title="TV",SPORT TV 3 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58882.ts
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106367
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106368
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106369
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106370
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106371
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106372
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106373
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://ipflix.click:80/sq1x0qr86b/7777/8816
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://ipflix.click:80/sq1x0qr86b/7777/7479
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://ipflix.click:80/sq1x0qr86b/7777/13089
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66363
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58885.ts
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58884.ts
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106374
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106375
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106376
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106377
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://ipflix.click:80/sq1x0qr86b/7777/7478
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://ipflix.click:80/sq1x0qr86b/7777/8812
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://ipflix.click:80/sq1x0qr86b/7777/13087
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58887.ts
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58886.ts
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106378
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106379
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106380
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106381
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://ipflix.click:80/sq1x0qr86b/7777/697409
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106536
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://ipflix.click:80/sq1x0qr86b/7777/12521
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://ipflix.click:80/sq1x0qr86b/7777/7534
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://ipflix.click:80/sq1x0qr86b/7777/12520
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66287
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66288
+#EXTINF:-1 group-title="TV",BENFICA TV 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/95819.ts
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58876.ts
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58877.ts
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106382
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106383
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106384
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106385
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106386
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106387
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106388
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://ipflix.click:80/sq1x0qr86b/7777/7476
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58875.ts
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106414
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106415
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106416
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://ipflix.click:80/sq1x0qr86b/7777/7519
+#EXTINF:-1 group-title="TV",EUROSPORT 1 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66318
+#EXTINF:-1 group-title="TV",EUROSPORT 1 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58871.ts
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58870.ts
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106417
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106418
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106419
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://ipflix.click:80/sq1x0qr86b/7777/7518
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66319
+#EXTINF:-1 group-title="TV",EUROSPORT 2 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58872.ts
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106420
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106421
+#EXTINF:-1 group-title="TV",EUROSPORT 2 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106422
+#EXTINF:-1 group-title="TV",TLC
+http://ipflix.click:80/sq1x0qr86b/7777/7474
+#EXTINF:-1 group-title="TV",TLC
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58830.ts
+#EXTINF:-1 group-title="TV",TLC
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106441
+#EXTINF:-1 group-title="TV",MEZZO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106479
+#EXTINF:-1 group-title="TV",DOG TV
+http://ipflix.click:80/sq1x0qr86b/7777/12528
+#EXTINF:-1 group-title="TV",DOG TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106432
+#EXTINF:-1 group-title="TV",MTV 00S
+http://ipflix.click:80/sq1x0qr86b/7777/8785
+#EXTINF:-1 group-title="TV",MTV 00S
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106482
+#EXTINF:-1 group-title="TV",MCM POP
+http://ipflix.click:80/sq1x0qr86b/7777/7509
+#EXTINF:-1 group-title="TV",MCM POP
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66332
+#EXTINF:-1 group-title="TV",MCM POP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106474
+#EXTINF:-1 group-title="TV",MCM TOP
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106475
+#EXTINF:-1 group-title="TV",SAUDE +
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106431
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://ipflix.click:80/sq1x0qr86b/7777/7542
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66277
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58842.ts
+#EXTINF:-1 group-title="TV",24 KITCHEN 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58843.ts
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106456
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106457
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106458
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://ipflix.click:80/sq1x0qr86b/7777/12501
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106473
+#EXTINF:-1 group-title="TV",TRACE TOCA 
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106480
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://ipflix.click:80/sq1x0qr86b/7777/12503
+#EXTINF:-1 group-title="TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66382
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106481
+#EXTINF:-1 group-title="TV",CACAVISION
+http://ipflix.click:80/sq1x0qr86b/7777/7531
+#EXTINF:-1 group-title="TV",CACAVISION
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106429
+#EXTINF:-1 group-title="TV",CACA PESCA 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58850.ts
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106428
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106427
+#EXTINF:-1 group-title="TV",LOCALVISAO
+http://ipflix.click:80/sq1x0qr86b/7777/12529
+#EXTINF:-1 group-title="TV",LOCALVISAO
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106505
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://ipflix.click:80/sq1x0qr86b/7777/7492
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66342
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58786.ts
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106251
+#EXTINF:-1 group-title="TV",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://ipflix.click:80/sq1x0qr86b/7777/7493
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66346
+#EXTINF:-1 group-title="TV",RTP ACORES 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58785.ts
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106248
+#EXTINF:-1 group-title="TV",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://ipflix.click:80/sq1x0qr86b/7777/7490
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347
+#EXTINF:-1 group-title="TV",RTP MADEIRA 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58784.ts
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106249
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://ipflix.click:80/sq1x0qr86b/7777/7489
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348
+#EXTINF:-1 group-title="TV",RTP MEMORIA 
+http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/58783.ts
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106250
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV 
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106504
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://ipflix.click:80/sq1x0qr86b/7777/7505
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66335
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106476
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106477
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66301
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106226
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://ipflix.click:80/sq1x0qr86b/7777/8790
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66304
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106439
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://revteam4.offshorerev.cc:80/mag00:1A:79:32:0B:7A/CBnfsSEsLJ/106440
+#EXTINF:-1 group-title="TV",RTP INTERNACIONAL 
+http://ipflix.click:80/sq1x0qr86b/7777/7491
+#EXTINF:-1 group-title="TV",RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://f.rim2019.tk:569/28678248/74826489/89526
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://directiptvfhd.com:8080/87b43fb3/ff46241f5f/297535
+#EXTINF:-1 group-title="TV",TVI Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIzIDI6MTE6NDMgUE0maGFzaF92YWx1ZT1yTm1IS3U2ZG16czVWa3RWNWJHVTVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjZhNzQzNTUtNWFlZC00NWI2LWE1OTYtMmZmNmUwZWJlZjUx/
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
+#EXTINF:-1 group-title="TV",HOT
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5526
+#EXTINF:-1 group-title="TV",HOT
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/13397
+#EXTINF:-1 group-title="TV",HOT 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68194
+#EXTINF:-1 group-title="TV",HOT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68196
+#EXTINF:-1 group-title="TV",VENUS
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5496
+#EXTINF:-1 group-title="TV",HUSTLER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68197
+#EXTINF:-1 group-title="TV",HUSTLER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68198
+#EXTINF:-1 group-title="TV",VIVID RED
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68254
+#EXTINF:-1 group-title="TV",DORCEL TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68162
+#EXTINF:-1 group-title="TV",DORCEL TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68163
+#EXTINF:-1 group-title="TV",DORCEL TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68164
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68151
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68152
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68153
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/19674
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/17717
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/19673
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5512
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66340
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68225
+#EXTINF:-1 group-title="TV",PENTHOUSE GOLD 
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68212
+
+
+
+# Radios
+
+#EXTINF:-1 group-title="Radios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",RADIO TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",RADIO RENASCENCA
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",ANTENA 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png",ANTENA 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",ANTENA 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",RDP AFRICA
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png",RDP INTERNACIONAL
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Radio Cidade FM
+https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Radio Mega Hits
+https://21313.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Radio Comercial
+https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Radio RFM
+https://21313.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Radio Smooth FM
+http://mcrwowza5.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Radio Vodafone FM
+http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png",Radio M80
+http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8002
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8000
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522/;
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://brand.observador.pt/assets/img/proibicoes-03-radio.png",RADIO OBSERVADOR
+https://stream.observador.pt/aac_hifi.m3u8
