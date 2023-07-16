@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Marco1111998/EPG_PT/main/epg/geral.xml"
 
 #EXTINF:-1 group-title="TV",RTP 1
-#EXTVLCOPT:http-user-agent=Firefox/5.0 (Windows NT 10.0; Win64; x64; rv:93.0)  Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0)  Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8
 
 #EXTINF:-1 group-title="TV",RTP 2
@@ -44,6 +44,42 @@ https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jix4kG0j-l48GWnVP
 
 #EXTINF:-1 group-title="TV",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",KURIAKOS TV 
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV",TVI INTERNACIONAL
 #KODIPROP:inputstream=inputstream.adaptive
