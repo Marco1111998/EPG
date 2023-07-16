@@ -1,22 +1,51 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Marco1111998/EPG_PT/main/epg/geral.xml"
 
+#EXTINF:-1 group-title="TV",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox/5.0 (Windows NT 10.0; Win64; x64; rv:93.0)  Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8
+
+#EXTINF:-1 group-title="TV",RTP 2
+#EXTVLCOPT:http-user-agent=Firefox/5.0 (Windows NT 10.0; Win64; x64; rv:93.0)  Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/rtp_playlist.m3u8
+
+#EXTINF:-1 group-title="TV",SIC
+https://sic.live.impresa.pt/sic540p.m3u8
 
 #EXTINF:-1 group-title="TV",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NiBQTSZoYXNoX3ZhbHVlPTNsRkQ1NU5KT3pIaURsNk1kUDRqOEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZTMxN2NjZC02NzQ1LTQ3YWYtOWJiZS1kMzZiYzI4ZjVlM2M=/
 
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+
+#EXTINF:-1 group-title="TV",RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV",CNN PORTUGAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPUt1b0tha3dDdWtoVm1QYkxYLzBBR1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zODc5YjI0MC1lYjczLTQzMDAtODc2NS00ZmZmNzc1OWNlM2U=/
+
+#EXTINF:-1 group-title="TV",TVI FICCAO
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",TVI AFRICA
+https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://github.com/Marco1111998/logos/blob/main/sic_novelas.png?raw=true",SIC NOVELAS
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas_3.m3u8
 
 #EXTINF:-1 group-title="TV",PORTO CANAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jix4kG0j-l48GWnVP_mtuiMJrYSDLv7Vw4RT1tCjw7E)/dm/3/x8egnb8/s/live-2.m3u8
 
-#EXTINF:-1 group-title="TV",TVI Internacional
+#EXTINF:-1 group-title="TV",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="TV",TVI INTERNACIONAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPXcrM0psVEZkWUVKS3NsQ0RFTWpMQ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hOTgwNzBlNS1iMjZjLTRlMWItYTdiNy1mZTlkZWY5ODk5NmU=/
