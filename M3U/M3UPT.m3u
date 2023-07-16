@@ -5,15 +5,18 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NiBQTSZoYXNoX3ZhbHVlPTNsRkQ1NU5KT3pIaURsNk1kUDRqOEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZTMxN2NjZC02NzQ1LTQ3YWYtOWJiZS1kMzZiYzI4ZjVlM2M=/
+
 #EXTINF:-1 group-title="TV",CNN PORTUGAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6MTg6MzYgUE0maGFzaF92YWx1ZT1uMkpSTy9RSlU2Rk42Rmo0WjFoR0V3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Zjk2NjMxMTMtNGJlOS00ZjNkLTllMzEtNzdjY2ZlOGVlY2Iz/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPUt1b0tha3dDdWtoVm1QYkxYLzBBR1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zODc5YjI0MC1lYjczLTQzMDAtODc2NS00ZmZmNzc1OWNlM2U=/
+
 #EXTINF:-1 group-title="TV",PORTO CANAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-01.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0pOuSaHEgt27nQcGITPB74KcMklMUQ2nfxnQr8qIg267)/dm/3/x8egnb8/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jix4kG0j-l48GWnVP_mtuiMJrYSDLv7Vw4RT1tCjw7E)/dm/3/x8egnb8/s/live-2.m3u8
+
 #EXTINF:-1 group-title="TV",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6MTg6MzYgUE0maGFzaF92YWx1ZT1OOUdmaDZYZEJURFJJbm9iWkFuR0x3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Njc4ZjkyYTUtNjM3Ni00OThmLWEzZTgtYjhhZDljZTQ2ZmE2/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPXcrM0psVEZkWUVKS3NsQ0RFTWpMQ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hOTgwNzBlNS1iMjZjLTRlMWItYTdiNy1mZTlkZWY5ODk5NmU=/
