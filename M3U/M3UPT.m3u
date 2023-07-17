@@ -14,10 +14,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/rtp_playlist.m3u8
 #EXTINF:-1 group-title="TV",SIC
 https://sic.live.impresa.pt/sic540p.m3u8
 
-#EXTINF:-1 group-title="TV",TVI
+#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NiBQTSZoYXNoX3ZhbHVlPTNsRkQ1NU5KT3pIaURsNk1kUDRqOEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZTMxN2NjZC02NzQ1LTQ3YWYtOWJiZS1kMzZiYzI4ZjVlM2M=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIzIDY6NjoyOCBQTSZoYXNoX3ZhbHVlPXA0bzRFcHUycmd0YTZCNkxyRXBSNlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iY2ViNzY5OS0wNWY0LTQ4ZDUtOTkyMC0xYmJiOGM5N2Y2ZWY=/
 
 #EXTINF:-1 group-title="TV",SIC NOTICIAS
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
@@ -26,10 +26,10 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV",CNN PORTUGAL
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPUt1b0tha3dDdWtoVm1QYkxYLzBBR1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zODc5YjI0MC1lYjczLTQzMDAtODc2NS00ZmZmNzc1OWNlM2U=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIzIDY6NjoyOSBQTSZoYXNoX3ZhbHVlPXNQdW5SQ1FFcW02bGN3RDBiZXo0Rmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mYTFhNTRiMC0zNjU5LTQ2ZjktOGU4Ny04ZjIyOTg1MjJkOTg=/
 
 #EXTINF:-1 group-title="TV",CMTV 
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/68965
