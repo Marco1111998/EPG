@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: checkout
+      - name: checkout this repo
         uses: actions/checkout@v3
 
       - name: update streams
