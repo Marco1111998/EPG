@@ -29,7 +29,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
