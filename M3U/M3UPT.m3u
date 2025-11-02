@@ -18,7 +18,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDk6MTI6MzkgUE0maGFzaF92YWx1ZT1BNG5DRnQreGRDaFMrYzQ2YzNpdUhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWNhYzMxNTAtZTA2MC00NGI5LTg4ZjctNzViNjc5NmIyNDcx/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEwOjEzOjQwIFBNJmhhc2hfdmFsdWU9VUhLbnJIcklpcEtjYTBNcGsyMjdadz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThmNmNmOTA3LWRlMjktNDJkNi1hNDEwLTM5ZmJjMGY0NzkzZg==/
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -36,7 +36,7 @@ chunklist_b2540000_slpor.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDk6MTI6MzkgUE0maGFzaF92YWx1ZT1neHVtaUF4N2FiNG1sbXRkeTgxd2l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGYzOWRjM2EtOWRmNy00NjFjLTg5ZTMtNTBkNTU3ZDg2YjMy/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEwOjEzOjQxIFBNJmhhc2hfdmFsdWU9bjNXRzFHK2VaeTdVS05qTXdJeEROZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI4ZWFlMDczLTBhZTQtNDBkYy1hODkwLTc1NjQyMTJhYTIzOA==/
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -51,12 +51,12 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDk6MTI6NDAgUE0maGFzaF92YWx1ZT01ZGhzWGZKNndTN3ZRRkFyenZ0Zyt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDQzNjZjNWMtZDk0Zi00MjU1LTlhMWItNjI4NGFhZjE4ZmJk/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEwOjEzOjQxIFBNJmhhc2hfdmFsdWU9OGFjbkdCR1dKSGFVMEp0TGlocm80UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWMwMWI5Njk1LTU4N2YtNDZjMS04MGIzLTc1NjIxYmU4MDM2ZA==/
 
 #EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDk6MTI6NDAgUE0maGFzaF92YWx1ZT1adDlNVU04L3pTVVFzWXNYVEI1OWlRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzI4ZjI2MTItZjQ4ZS00MWI4LThiZTAtY2Y5OWYwYzI1OTgw/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEwOjEzOjQyIFBNJmhhc2hfdmFsdWU9ZnhBT0NoK3hCeW5admNZOFlob1IwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdkMDY3MzU4LTMyMmItNDMzZi05ZjdmLTNjMmI2ZDYzZGJlYg==/
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
 #KODIPROP:inputstream=inputstream.adaptive
