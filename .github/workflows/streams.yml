@@ -1,11 +1,16 @@
 name: Update streams
+
 on:
   schedule:
     - cron: "0 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   Update-streams:
     runs-on: ubuntu-latest
+
     steps:
       - name: checkout
         uses: actions/checkout@v5
