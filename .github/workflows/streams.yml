@@ -3,8 +3,9 @@ name: Update streams
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:
 
-permissions:
+permissions: 
   contents: write
 
 jobs:
@@ -12,20 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v5
+      - name: Checkout this repo
+        uses: actions/checkout@v3
 
-      - name: update streams
-        run: cd M3U && bash streams.sh
+      - name: Run stream update script
+        run: bash M3U/streams.sh
 
-      - name: setup git config
+      - name: Setup git config
         run: |
           git config user.name "🚀 HAL 9000"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "actions@github.com"
 
-      - name: commit
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git pull origin main
-          git add M3U/
-          git commit -m "Update streams"
-          git push origin main
+          cd M3U
+          git add M3UPT.m3u || echo "Nenhuma alteração para adicionar"
+          git diff --cached --quiet || git commit -m "Update streams"
+          git pull --rebase
+          git push
